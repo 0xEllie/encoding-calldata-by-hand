@@ -343,6 +343,7 @@ now we are Done!
 
 output from remix:
 0xf60185ef
+
 0000000000000000000000000000000000000000000000000000000000000060
 0000000000000000000000000000000000000000000000000000000000000160
 00000000000000000000000000000000000000000000000000000000000000c7
@@ -374,3 +375,7 @@ TestABIencode.sol contract address on Sepolia: 0x6552C18B78A5d3A0481540FDa73752b
 If you want to donate, I would appreciate every cent up to one Million dollar :)
 
 my eth address : 0x2587646515BE64708CCc7bA0810Bdd4dce314A7c
+
+
+Disclaimer
+These contracts are meant for educational purposes and may contain vulnerabilities, therefore don’t use these contracts in a production environment.
