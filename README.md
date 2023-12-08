@@ -1,4 +1,4 @@
-# Sample ABI Encode By Hand Project
+# ABI Encode By Hand Project
 
 This project demonstrates how to calculate a smart contract ABI(application binary interface) encoding and run it through calldata against EVM(Ethereum virtual machine). It contains a sample contract called TestABIencode which is deployed on Sepolia (an Ethereum public Testnet) and a test for our hand made ABI with Hardhat.
 
